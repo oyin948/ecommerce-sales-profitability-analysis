@@ -33,7 +33,7 @@ The analysis was designed to answer the following questions:
 - **Five sub-categories** recorded negative profit, with **Furnishings** recording the largest loss at **-₹806**.
 - **Credit Card (CC)** transactions recorded the highest profit (**₹12,612**) and highest profit margin (**15%**) among the payment modes.
 
-[Dashboard.png](Screenshot/Dashboard.png)
+[Dashboard preview](Screenshot/Dashboard.png)
 
 ---
 
@@ -179,6 +179,9 @@ The interactive Power BI dashboard includes:
 
 [View the project dashboard and Power BI files](Screenshot/Dashboard.png/)
 
+To download the dashboard and interact with it:
+.[Click the download link](PowerBI_Sales_Profitability_Analysis.pbix)
+
 The repository contains the Power BI `.pbix` file, dataset, screenshots, and project documentation.
 
 ---
@@ -189,10 +192,10 @@ The repository contains the Power BI `.pbix` file, dataset, screenshots, and pro
 E-Commerce-Sales-Profitability-Analysis/
 │
 ├── Data/
-│   └── Details_cleaned.csv
+│   └── Details_cleaned.xlsx
 │
 ├── PowerBI/
-│   └── E-Commerce Sales Profitability Analysis.pbix
+│   └── E-Commerce_Sales_Profitability_Analysis.pbix
 │
 ├── Screenshot/
 │   └── Dashboard.png
