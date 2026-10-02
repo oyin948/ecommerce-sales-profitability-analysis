@@ -180,7 +180,7 @@ The interactive Power BI dashboard includes:
 [View the project dashboard and Power BI files](Screenshot/Dashboard.png/)
 
 To download the dashboard and interact with it:
-.[Click the download link](PowerBI_Sales_Profitability_Analysis.pbix)
+.[Click the download link](PowerBI/E-Commerce_Sales_Profitability_Analysis.pbix)
 
 The repository contains the Power BI `.pbix` file, dataset, screenshots, and project documentation.
 
