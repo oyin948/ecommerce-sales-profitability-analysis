@@ -33,7 +33,7 @@ The analysis was designed to answer the following questions:
 - **Five sub-categories** recorded negative profit, with **Furnishings** recording the largest loss at **-₹806**.
 - **Credit Card (CC)** transactions recorded the highest profit (**₹12,612**) and highest profit margin (**15%**) among the payment modes.
 
-[Dashboard.png](ecommerce-sales-profitability-analysis/Screenshot/Dashboard.png)]
+[Dashboard.png](Screenshot/Dashboard.png)
 
 ---
 
