@@ -55,7 +55,7 @@ The dataset contains **1,500 order line items representing 500 unique customer o
 
 ### Dataset Link
 
-[View/download the project dataset](github/oyin948/ecommerce-sales-profitability-analysis/Data/Details_cleaned.csv)
+[View/download the project dataset](Data/Details_cleaned.csv)
 
 ---
 
@@ -177,7 +177,7 @@ The interactive Power BI dashboard includes:
 
 ### Dashboard Link
 
-[View the project dashboard and Power BI files](github/oyin948/ecommerce-sales-profitability-analysis/Screenshot/Dashboard/)
+[View the project dashboard and Power BI files](Screenshot/Dashboard.png/)
 
 The repository contains the Power BI `.pbix` file, dataset, screenshots, and project documentation.
 
