@@ -55,7 +55,7 @@ The dataset contains **1,500 order line items representing 500 unique customer o
 
 ### Dataset Link
 
-[View/download the project dataset](Data/Details_cleaned.csv)
+[View/download the project dataset](Data/Details_cleaned.xlsx)
 
 ---
 
